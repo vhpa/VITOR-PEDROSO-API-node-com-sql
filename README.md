@@ -1,7 +1,7 @@
 # API REST com Node.js e MySQL
 
-**Aluno:** SEU NOME AQUI
-**Turma:** SUA TURMA AQUI
+**Aluno:** Vitor Hugo Pedroso de Almeida
+**Turma:** 3 NDN
 **Disciplina:** Programação Web III (PW3)
 
 API REST em Node.js + Express com MySQL, usando SQL direto via `mysql2` (sem ORM) e queries parametrizadas (`?`) contra SQL Injection.
@@ -15,8 +15,8 @@ API REST em Node.js + Express com MySQL, usando SQL direto via `mysql2` (sem ORM
 
 1. Clone o repositório e entre na pasta:
    ```bash
-   git clone https://github.com/SEU-USUARIO/nome-do-aluno-API-node-com-sql.git
-   cd nome-do-aluno-API-node-com-sql
+   git clone https://github.com/VHPA/vitor-almeida-API-node-com-sql.git
+   cd vitor-almeida-API-node-com-sql
    ```
 2. Instale as dependências:
    ```bash
